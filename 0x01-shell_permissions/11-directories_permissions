@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -R +X .
+chmod -R +X .
