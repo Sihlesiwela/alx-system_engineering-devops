@@ -1,2 +1,2 @@
 #!/bin/bash
-echo head -3
+head -3 icta | tail -1
